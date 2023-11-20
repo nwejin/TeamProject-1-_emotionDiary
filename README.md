@@ -1,6 +1,6 @@
 # TeamProject_1_emotionDiary
 
-Img
+<img src="![KakaoTalk_Photo_2023-11-18-10-48-21](https://github.com/nwejin/TeamProject-1-_emotionDiary/assets/147528674/bb291a2d-b13f-430c-8dad-7a4b6f1cc93b)" width="300">
 
 
 ## 코딩온 KDT 10기 1차 팀프로젝트 6조
